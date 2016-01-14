@@ -22,6 +22,7 @@ public class webdriverTest {
 	@Test
 	public void testJenkins() throws InterruptedException, IOException
 	{
+		//new comment to check in github
 		
 		//System.setProperty("webdriver.ie.driver", "C:\\IEDriverServer\\IEDriverServer.exe");
 		
