@@ -22,7 +22,7 @@ public class webdriverTest {
 	@Test
 	public void testJenkins() throws InterruptedException, IOException
 	{
-		//some checnge4 and 5
+		//some checnge4 and 5 now
 		//System.setProperty("webdriver.ie.driver", "C:\\IEDriverServer\\IEDriverServer.exe");
 		
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
