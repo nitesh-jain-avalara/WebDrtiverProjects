@@ -75,7 +75,7 @@ public class webdriverTest {
 			dr.findElement(By.id("txtUserName")).sendKeys("nitesh.jain");
 			
 			dr.findElement(By.id("txtPassword")).clear();
-			dr.findElement(By.id("txtPassword")).sendKeys("Alag$chin1");
+			dr.findElement(By.id("txtPassword")).sendKeys("*****");
 			
 			dr.findElement(By.id("btnLogin")).click();
 			Thread.sleep(10000);
